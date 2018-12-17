@@ -1,2 +1,2 @@
 # statistic-example
-statistic example code
+statistic example python code
